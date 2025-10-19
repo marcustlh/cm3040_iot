@@ -1,4 +1,4 @@
-# cm3040_iot- Smart Home Security System
+# cm3040_iot - Smart Home Security System
 
 ## Overview
 This project presents an offline-capable Smart Home Security System developed using the ESP8266 NodeMCU. It integrates temperature monitoring, motion detection, flame detection, and RFID-based door access control. All processing is done locally to ensure privacy, reliability, and independence from cloud connectivity.
