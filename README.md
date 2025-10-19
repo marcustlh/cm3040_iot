@@ -47,10 +47,10 @@ Developed using the Arduino IDE.
 
 ## System Workflow
 1. Sensors collect temperature, motion, and flame data.  
-2. ESP8266 processes input and triggers appropriate actions.  
+2. The ESP8266 processes input and triggers appropriate actions.  
 3. RFID tags are scanned and authenticated.  
 4. The servo unlocks the door for authorized tags.  
-5. Alerts are issued through buzzer or LED indicators.  
+5. Alerts are issued through the buzzer or LED indicators.  
 6. The web dashboard displays real-time sensor and access status.
 
 ## Web Dashboard
@@ -94,6 +94,11 @@ Features include:
 4. Upload the sketch.  
 5. Open the Serial Monitor to obtain the local IP address.  
 6. Enter the IP address in a web browser to view the dashboard.
+
+## Project Architecture Diagram
+The following diagram illustrates the overall system architecture, showing the interaction between sensors, actuators, and the ESP8266 NodeMCU.
+
+![alt text](https://github.com/marcustlh/cm3040_iot/blob/8552dcd5b6a60aa736b5b598d2952b0fcad3782d/setup/system_diagram.png?raw=true)
 
 ## Author
 **Marcus Tan Lai He**  
