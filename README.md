@@ -102,7 +102,6 @@ The following diagram illustrates the overall system architecture, showing the i
 
 ## Author
 **Marcus Tan Lai He**  
-CM3040 Physical Computing and IoT (2025)
 
 ## License
 This project is open-source under the MIT License.
